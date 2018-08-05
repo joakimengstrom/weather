@@ -1,0 +1,44 @@
+.container {
+	margin-top: 2%;
+}
+
+.table > tbody > tr > td {
+	text-align: center;
+}
+
+.table > thead {
+	text-align: center;
+}
+
+.temperature-list{
+	margin-top: 1%;
+}
+
+@media (min-width:600px)
+{
+.temperature-list {
+	width: 50%;
+	margin-left: 0;
+}
+}
+
+.general {
+	width: 70%;
+	margin-left: 0;
+	margin-top: 1%;
+}
+
+h3 {
+	margin: 2% 0;
+	padding-bottom: 1%;
+}
+
+form {
+	width: 70%;
+	padding: 2% 1%;
+	background-color: WhiteSmoke;
+}
+
+select {
+	padding: 5%;
+}

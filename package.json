@@ -1,0 +1,28 @@
+{
+  "name": "temperatures",
+  "version": "1.0.0",
+  "description": "Temperatures in different cities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joakimengstrom/temperatures.git"
+  },
+  "author": "Joakim Engström",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joakimengstrom/temperatures/issues"
+  },
+  "homepage": "https://github.com/joakimengstrom/temperatures#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9"
+  },
+  "engines": {
+    "node": "8.9.3"
+  }
+}
